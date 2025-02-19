@@ -6,6 +6,6 @@ This project provides insights into COVID-19 trends using data analysis.
 
 Here are some sample outputs:
 
-![Sample Output 1](output_ss/Figure_1.png)
-![Sample Output 2](output_ss/Figure_2.png)
-![Sample Output 2](output_ss/Figure_3.png)
+![Sample Output 1](output/Figure_1.png)
+![Sample Output 2](output/Figure_2.png)
+![Sample Output 2](output/Figure_3.png)

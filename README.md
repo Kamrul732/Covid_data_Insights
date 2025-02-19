@@ -3,4 +3,4 @@
 This project provides insights into COVID-19 trends using data analysis.
 
 ## Output Screenshots
-![Sample Output](output)
+![Sample Output](ou
